@@ -137,6 +137,7 @@ function oldModels(arr) {
     }
   }
 }
+
 oldModels(inventory);
 
 // ==== Challenge 6 ====
